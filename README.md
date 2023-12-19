@@ -1,4 +1,4 @@
-# MemoryTraining.Knowledge
+# MemoryTraining & Testing.Knowledge
 sch: https://www.youtube.com/@Jayztwocents/search?query=training https://www.youtube.com/@Jayztwocents/search?query=memory%20training
 
 # Guide:
